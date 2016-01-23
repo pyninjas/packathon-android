@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Packathon</string>
+
+    <string name="msg_please_wait">Lütfen bekleyiniz&#8230;</string>
+    <string name="msg_login_success">Giriş başarılı!</string>
+    <string name="msg_login_to_vote">Oylama sistemini kullanabilmek için giriş yapmanız gerekmektedir.</string>
+    <string name="msg_voting">Oyunuz başarıyla gönderildi!</string>
+    <string name="msg_logout_success">Başarıyla çıkış yaptınız!</string>
+
+    <string name="error_title">Hata</string>
+
+    <string name="err_general">Bir hata oluştu!</string>
+    <string name="err_required_fields">Lütfen tüm alanları doldurunuz!</string>
+    <string name="err_server">Sunucu hatası oluştu!</string>
+    <string name="err_invalid_credentials">Hatalı kullanıcı adı veya parola!</string>
+    <string name="err_voting">Oyunuz gönderilirken bir hata oluştu!</string>
+    <string name="err_source_code_not_exist">Bu projenin kaynak kodu girilmemiş!</string>
+    <string name="err_website_not_exist">Bu projenin web sitesi girilmemiş!</string>
+
+    <string name="label_ok">Tamam</string>
+    <string name="label_email">E-Posta</string>
+    <string name="label_password">Parola</string>
+    <string name="label_login">GİRİŞ YAP</string>
+    <string name="label_logout">Çıkış Yap</string>
+    <string name="label_try_again">TEKRAR DENE</string>
+    <string name="label_vote_this_project">Bu projeyi oyla!</string>
+    <string name="label_project_voted">Bu projeyi oyladınız!</string>
+    <string name="label_source_code">Kaynak Kodu</string>
+    <string name="label_website">Web Sitesi</string>
+
+    <string name="drawer_open">Drawer is open!</string>
+    <string name="drawer_closed">Drawer is closed!</string>
+
+    <string name="title_login">Giriş Yap</string>
+    <string name="title_vote">Oylama</string>
+    <string name="title_project_detail">Proje Detayı</string>
+
+    <string-array name="drawer_menu">
+        <item>Packathon</item>
+        <item>Oylama</item>
+    </string-array>
+
+</resources>
